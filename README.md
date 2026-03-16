@@ -44,9 +44,8 @@ Encrypted-OFDM adds physical layer encryption that:
 
 ```bash
 # Clone this repository
-git clone https://github.com/niloy-it/encrypted-ofdm-sim.git
-cd encrypted-ofdm-sim
-
+git clone https://github.com/niloy-it/encrypted-ofdm-sim_proejct_lab.git
+cd encrypted-ofdm-sim_proejct_lab
 # Install dependencies
 pip install -r requirements.txt
 
